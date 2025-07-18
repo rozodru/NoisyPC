@@ -4,8 +4,6 @@ Bring the glorious chaos of the 90s back to your modern Linux machine.
 
 **NoisyPC** is a small Linux utility that plays retro computer sounds—like hard drive clicks, modem screeches, and fan whines—based on real system activity. It's like installing a sound skin for your PC that turns disk I/O, CPU load, and more into an ambient nostalgia trip.
 
-![Retro PC](https://upload.wikimedia.org/wikipedia/commons/3/32/IBM_PS2_Model_25.jpg)
-
 > Remember when opening a file _sounded like_ opening a file? Yeah, I do too.
 
 ---
